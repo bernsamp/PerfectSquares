@@ -12,7 +12,7 @@ public class Main{
 
         while ((number2 >= a && number2 <= b)){
 
-            System.out.print(number2 + " ");
+            System.out.println(number2 + " - Perfect Square of " + (number/2));
 
             number2 += number;
 
